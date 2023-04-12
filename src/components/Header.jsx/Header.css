@@ -1,0 +1,26 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 90px;
+  height: 80px;
+  color: white;
+  background-color: rgb(33, 33, 33);
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  text-decoration: none;
+}
+
+.pm {
+  color: white;
+  padding-left: 20px;
+}
+
+
+.pm:hover{
+
+  color: green;
+
+}
